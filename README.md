@@ -10,8 +10,8 @@ implement logic to select unique flights each day.
 
 ● The app was written in Kotlin 100% with using the Clean Architecture and Jetpack Compose.
 
-● Use kotlin flow / coroutines.
+● Use Kotlin Flow / Coroutines.
 
-● Use Mockk
+● Use Mockk, Dagger/Hilt, Retrofit2, Room, Orbit Compose
 
 ![alt text](https://github.com/pzverkov/LosFlights/blob/main/coverage.png?raw=true)
